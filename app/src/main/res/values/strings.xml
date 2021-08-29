@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">HomeWorkEleven</string>
+    <string name="del">Удалить</string>
+    <string name="del_mes">Вы точно хотите удалить файл?</string>
+    <string name="yes">да</string>
+    <string name="no">нет</string>
 </resources>
